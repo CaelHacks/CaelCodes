@@ -1,5 +1,5 @@
 # Hey There,
-🧑🏼‍💻 I am a Software Engineer who will be sharing their journey in this field of Computer Science<br>📱 Making Videos on Instagram to teach Computer Science, Programming and Ethical Hacking<br>💻 Self Studying Bootcamps and Courses for Software Developing<br>💻 Currently Completing CompTIA Security+ and Pen-Test+<br>
+🧑🏼‍💻 I am a Software Engineer who will be sharing their journey in this field of Computer Science<br>💻 Self Studying Bootcamps and Courses for Software Developing<br>💻 Currently Completing CompTIA Security+ and Pen-Test+<br>
 
 
 ## 🌐 Socials:
@@ -27,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CaelHacks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
